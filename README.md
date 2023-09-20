@@ -26,6 +26,12 @@ The todos will come from the API presented at the course, similar to this one: h
 
 
 
+## Screenshots
+
+![App Screenshot](screen\1.png)
+![App Screenshot](screen\2.png)
+![App Screenshot](screen\3.png)
+![App Screenshot](screen\4.png)
 
 
 
